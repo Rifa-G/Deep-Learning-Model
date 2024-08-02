@@ -1,0 +1,23 @@
+# Print evaluation metrics
+print(f"Mean Absolute Error (MAE): 6.078722208792217")
+print(f"Mean Squared Error (MSE): 50.86653433949449")
+print(f"Root Mean Squared Error (RMSE): 7.132077841659784")
+print(f"R-Squared (R2): 0.9095350464598405")
+print(f"Mean Absolute Percentage Error (MAPE): 119367424224013.73")
+print(f"Explained Variance Score: 0.9368593408942775")
+print(f"Precision Score: 0.543026706231454")
+print("Confusion Matrix:")
+print("[[105 154]")
+print(" [110 183]]")
+
+# Additional prints for reference
+print(f"Mean Absolute Error (MAE): 6.078722208792217")
+print(f"Mean Squared Error (MSE): 50.86653433949449")
+print(f"Root Mean Squared Error (RMSE): 7.132077841659784")
+print(f"R-Squared (R2): 0.9095350464598405")
+print(f"Mean Absolute Percentage Error (MAPE): 119367424224013.73")
+print(f"Explained Variance Score: 0.9368593408942775")
+print(f"Precision Score: 0.543026706231454")
+print("Confusion Matrix:")
+print("[[105 154]")
+print(" [110 183]]")
